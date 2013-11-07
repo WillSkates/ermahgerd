@@ -1,6 +1,7 @@
 ERMAHGERD! A SERMPL PHP INLERSH TER ERMAHGERD TRERNSLERTER CLERS.
 =================================================================
 
+[![Build Status](https://travis-ci.org/WillSkates/ermahgerd.png?branch=master)](https://travis-ci.org/WillSkates/ermahgerd)
 
 	<?php
 
